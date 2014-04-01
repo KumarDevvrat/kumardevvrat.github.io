@@ -1,0 +1,12 @@
+title:        Kumar Devvrat
+tagline:      'Kumar Devvrat'
+description:  'Programmer'
+url:          http://andhyde.com
+version:      1.1.1
+author:
+  name:       'Kumar Devvrat'
+  email:      'kumardevvrat@gmail.com'
+markdown:     rdiscount
+permalink:    pretty
+pygments:     true
+paginate:     5
