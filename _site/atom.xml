@@ -4,7 +4,7 @@
  <title>Kumar Devvrat</title>
  <link href="http://kumardevvrat.github.io/atom.xml" rel="self"/>
  <link href="http://kumardevvrat.github.io/"/>
- <updated>2014-04-02T18:10:47+05:30</updated>
+ <updated>2014-04-02T21:00:46+05:30</updated>
  <id>http://kumardevvrat.github.io</id>
  <author>
    <name>Kumar Devvrat</name>
@@ -17,7 +17,7 @@
    <link href="http://kumardevvrat.github.io/2014/04/02/setting-up-linux-again/"/>
    <updated>2014-04-02T00:00:00+05:30</updated>
    <id>http://kumardevvrat.github.io/2014/04/02/setting-up-linux-again</id>
-   <content type="html">&lt;p&gt;For quite sometime, I was really busy with my desk job. I am mostly involved in Java related technologies and churning out code on IntelliJ IDEA/Windows here but I was getting annoyed with the ecosystem outside IntelliJ. Setting up any software on windows and specially specific toolchain is painful. I manage a lot of CentOS servers though but the joy of using and developing on linux is very good.&lt;/p&gt;
+   <content type="html">&lt;p&gt;sdfdsfFor quite sometime, I was really busy with my desk job. I am mostly involved in Java related technologies and churning out code on IntelliJ IDEA/Windows here but I was getting annoyed with the ecosystem outside IntelliJ. Setting up any software on windows and specially specific toolchain is painful. I manage a lot of CentOS servers though but the joy of using and developing on linux is very good.&lt;/p&gt;
 
 &lt;p&gt;So I decided to use a VM. I have seen VirtualBox crashing at weird times but I did decide to use it nevertheless. Until now, I was using my linux config and package list from the college laptop. I decided that it was too stale now and maybe I need to jump into making out my own system again.&lt;/p&gt;
 
