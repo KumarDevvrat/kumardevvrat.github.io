@@ -4,7 +4,7 @@
  <title>Kumar Devvrat</title>
  <link href="http://kumardevvrat.github.io/atom.xml" rel="self"/>
  <link href="http://kumardevvrat.github.io/"/>
- <updated>2014-04-02T14:21:16+05:30</updated>
+ <updated>2014-04-02T14:47:02+05:30</updated>
  <id>http://kumardevvrat.github.io</id>
  <author>
    <name>Kumar Devvrat</name>
@@ -14,12 +14,14 @@
  
  <entry>
    <title>A new start!</title>
-   <link href="http://kumardevvrat.github.io/2013/12/28/hello-world/"/>
-   <updated>2013-12-28T00:00:00+05:30</updated>
-   <id>http://kumardevvrat.github.io/2013/12/28/hello-world</id>
+   <link href="http://kumardevvrat.github.io/2014/04/02/A-new-start/"/>
+   <updated>2014-04-02T00:00:00+05:30</updated>
+   <id>http://kumardevvrat.github.io/2014/04/02/A-new-start</id>
    <content type="html">&lt;p&gt;I am starting a new blog/site after a long time to put my things together or simply have an internet space of my own. I had purchased &lt;a href=&quot;http://devvrat.in&quot;&gt;devvrat.in&lt;/a&gt; back in 2010 and had written lot of stuff there. Unfortunately, it is all lost. I had hosted it on Wordpress at &lt;a href=&quot;http://www.x10hosting.com&quot;&gt;x10Hosting&lt;/a&gt;. Wordpress had so many security exploits that I lost track of them. Every now and then x10Hosting used to cancel my account and I used to plead them. At the end,  they terminated my account. I had backup up the wordpress install on my linux system from college but as it turns out that system is dead now. So well,  all the data is gone now!&lt;/p&gt;
 
-&lt;p&gt;I am trying to assemble this one by simple static generator &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It is tightly integrated with Github pages and I can simply write posts on &amp;amp;vim&amp;amp; and do &lt;code&gt;git push&lt;/code&gt;. I find blogging with markdown syntax very slick.&lt;/p&gt;
+&lt;p&gt;I am trying to assemble this one by simple static generator &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It is tightly integrated with Github pages and I can simply write posts on &lt;code&gt;vim&lt;/code&gt; and do &lt;code&gt;git push&lt;/code&gt;. I find blogging with markdown syntax very slick.&lt;/p&gt;
+
+&lt;p&gt;It so happens that I am starting on 2&lt;sup&gt;nd&lt;/sup&gt; of April which is the start of the Hindu new year. For this year, apart from my desk job and startup ideas, I have clear cut learning goals. Let me see how that works out.&lt;/p&gt;
 </content>
  </entry>
  
