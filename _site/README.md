@@ -3,5 +3,4 @@ Repository of my [blog](http://kumardevvrat.github.io). Theme and everything fro
 
 ## Contact
 
-**Kumar Devvrat**
 <kumardevvrat@gmail.com>
