@@ -4,7 +4,7 @@
  <title>Kumar Devvrat</title>
  <link href="http://kumardevvrat.github.io/atom.xml" rel="self"/>
  <link href="http://kumardevvrat.github.io/"/>
- <updated>2014-04-01T19:30:05+05:30</updated>
+ <updated>2014-04-02T14:21:16+05:30</updated>
  <id>http://kumardevvrat.github.io</id>
  <author>
    <name>Kumar Devvrat</name>
@@ -13,36 +13,13 @@
 
  
  <entry>
-   <title>Hello, world!</title>
+   <title>A new start!</title>
    <link href="http://kumardevvrat.github.io/2013/12/28/hello-world/"/>
    <updated>2013-12-28T00:00:00+05:30</updated>
    <id>http://kumardevvrat.github.io/2013/12/28/hello-world</id>
-   <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;http://andhyde.com&quot;&gt;Hyde&lt;/a&gt;, the perfect companion to &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt;, the popular static site generator. Hyde is an elegant, open source, mobile first theme for Jekyll. It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.&lt;/p&gt;
+   <content type="html">&lt;p&gt;I am starting a new blog/site after a long time to put my things together or simply have an internet space of my own. I had purchased &lt;a href=&quot;http://devvrat.in&quot;&gt;devvrat.in&lt;/a&gt; back in 2010 and had written lot of stuff there. Unfortunately, it is all lost. I had hosted it on Wordpress at &lt;a href=&quot;http://www.x10hosting.com&quot;&gt;x10Hosting&lt;/a&gt;. Wordpress had so many security exploits that I lost track of them. Every now and then x10Hosting used to cancel my account and I used to plead them. At the end,  they terminated my account. I had backup up the wordpress install on my linux system from college but as it turns out that system is dead now. So well,  all the data is gone now!&lt;/p&gt;
 
-&lt;h3&gt;Features&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Complete Jekyll setup included (layouts, config, 404, RSS feed, posts, and page)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/mdo/hyde#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/mdo/hyde#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;li&gt;Mobile first design and development, so it works great on all devices&lt;/li&gt;
-&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;h3&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Hyde is a rather forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3&gt;Documentation&lt;/h3&gt;
-
-&lt;p&gt;Docs for setting up and customizing Hyde can be found in the &lt;a href=&quot;https://github.com/mdo/hyde#readme&quot;&gt;project readme on GitHub&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Find out more and &lt;a href=&quot;https://github.com/mdo/hyde&quot;&gt;download a copy&lt;/a&gt; today from GitHub.&lt;/p&gt;
+&lt;p&gt;I am trying to assemble this one by simple static generator &lt;a href=&quot;http://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;. It is tightly integrated with Github pages and I can simply write posts on &amp;amp;vim&amp;amp; and do &lt;code&gt;git push&lt;/code&gt;. I find blogging with markdown syntax very slick.&lt;/p&gt;
 </content>
  </entry>
  

@@ -1,28 +1,8 @@
 ---
 layout: post
-title: Hello, world!
+title: A new start!
 ---
 
-Welcome to [Hyde](http://andhyde.com), the perfect companion to [Jekyll](http://jekyllrb.com), the popular static site generator. Hyde is an elegant, open source, mobile first theme for Jekyll. It includes lightweight styles and placeholder content to get you up and running with a simple blog in no time.
+I am starting a new blog/site after a long time to put my things together or simply have an internet space of my own. I had purchased [devvrat.in](http://devvrat.in) back in 2010 and had written lot of stuff there. Unfortunately, it is all lost. I had hosted it on Wordpress at [x10Hosting](http://www.x10hosting.com). Wordpress had so many security exploits that I lost track of them. Every now and then x10Hosting used to cancel my account and I used to plead them. At the end,  they terminated my account. I had backup up the wordpress install on my linux system from college but as it turns out that system is dead now. So well,  all the data is gone now!
 
-### Features
-
-* Complete Jekyll setup included (layouts, config, 404, RSS feed, posts, and page)
-* [Eight optional color schemes](https://github.com/mdo/hyde#themes), available via `<body>` classes
-* Two orientations for content and sidebar, default (left sidebar) and [reverse](https://github.com/mdo/hyde#reverse-layout) (right sidebar), available via `<body>` classes
-* Mobile first design and development, so it works great on all devices
-* Support for a wide gamut of HTML elements
-* Related posts (time-based, because Jekyll) below each post
-* Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)
-
-### Browser support
-
-Hyde is a rather forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.
-
-### Documentation
-
-Docs for setting up and customizing Hyde can be found in the [project readme on GitHub](https://github.com/mdo/hyde#readme).
-
-### Download
-
-Find out more and [download a copy](https://github.com/mdo/hyde) today from GitHub.
+I am trying to assemble this one by simple static generator [Jekyll](http://jekyllrb.com/). It is tightly integrated with Github pages and I can simply write posts on &vim& and do `git push`. I find blogging with markdown syntax very slick.
