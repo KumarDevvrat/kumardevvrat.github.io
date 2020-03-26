@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kumar Devvrat</title>
-    <link>http://www.devvrat.net/</link>
-    <description>Recent content on Kumar Devvrat</description>
+    <title>Posts on Kumar Devvrat</title>
+    <link>http://www.devvrat.net/posts/</link>
+    <description>Recent content in Posts on Kumar Devvrat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice 2020</copyright>
-    <lastBuildDate>Thu, 26 Mar 2020 23:44:07 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2020 22:46:07 +0530</lastBuildDate>
     
-	<atom:link href="http://www.devvrat.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.devvrat.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About me</title>
-      <link>http://www.devvrat.net/about/</link>
-      <pubDate>Thu, 26 Mar 2020 23:44:07 +0530</pubDate>
-      
-      <guid>http://www.devvrat.net/about/</guid>
-      <description>I currently work as software architect in a software-first robotics company
-At the same time, it&amp;rsquo;s futile to define myself with a title.</description>
-    </item>
     
     <item>
       <title>Fresh start from failure</title>

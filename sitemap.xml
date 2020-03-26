@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.devvrat.net/about/</loc>
+    <lastmod>2020-03-26T23:44:07+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.devvrat.net/</loc>
+    <lastmod>2020-03-26T23:44:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.devvrat.net/posts/fresh-start-from-failure/</loc>
+    <lastmod>2020-03-26T22:46:07+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.devvrat.net/posts/</loc>
+    <lastmod>2020-03-26T22:46:07+05:30</lastmod>
   </url>
   
   <url>
