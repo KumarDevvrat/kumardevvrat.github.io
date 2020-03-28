@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice 2020</copyright>
-    <lastBuildDate>Fri, 27 Mar 2020 22:59:08 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2020 12:20:27 +0530</lastBuildDate>
     
 	<atom:link href="http://www.devvrat.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How I prepared for software interviews</title>
+      <link>http://www.devvrat.net/posts/how-i-prepared-for-software-interviews/</link>
+      <pubDate>Sat, 28 Mar 2020 12:20:27 +0530</pubDate>
+      
+      <guid>http://www.devvrat.net/posts/how-i-prepared-for-software-interviews/</guid>
+      <description>I allocated myself one month to prepare for software engineering positions (e.g. SSE-II at Uber). I was picky about companies as I am looking to solve massively large scale challenges in the next phase of my career progression</description>
+    </item>
     
     <item>
       <title>Nth attempt at blog</title>
