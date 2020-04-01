@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice 2020</copyright>
-    <lastBuildDate>Sat, 28 Mar 2020 12:20:27 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2020 19:49:09 +0530</lastBuildDate>
     
 	<atom:link href="http://www.devvrat.net/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introspection and new hobby project</title>
+      <link>http://www.devvrat.net/posts/introspection-and-new-hobby-project/</link>
+      <pubDate>Wed, 01 Apr 2020 19:49:09 +0530</pubDate>
+      
+      <guid>http://www.devvrat.net/posts/introspection-and-new-hobby-project/</guid>
+      <description>Introspection This is about re-assessing the problem solving approach. As we progress in our careers, we get efficient in finding solutions to daily problems.</description>
+    </item>
     
     <item>
       <title>How I prepared for software interviews</title>
